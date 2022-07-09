@@ -28,13 +28,7 @@
 ---
 
 ## Description
-
-<p>The <b>Yes No API Challenge</b> is the perfect place to start! It is built with beginner friendly tech stack, anyone can jump in and start working on it. Ideally you'd have prior experience / basic understanding of HTML, CSS and JavaScript.
-</p>
-<p>In this challenge you will learn how to make a basic API call (triggered on request) and display the result to the user. Additionally you'll be given CSS styling to apply. 
-</p> 
-<p>Feel free to try out first yourself or jump on the YouTube video from the start, find what works best fo you and enjoy! 🐣
-</p> 
+Yes/No API application - ask the Magic 8 Ball a question to help you make your decision!
 
 ### Tech stack
 ```
@@ -47,17 +41,6 @@ Communication tool:
 - Fetch
 ```
 
-### Prerequisites
-```
-Knowledge level: 
-basic understanding of HTML, CSS and some JavaScript could help
-
-Tech: 
-a computer/laptop to copy the files to with a code editor of your choice
-```
-
-## Preview
-<img src="/preview.gif" height="500" style="border-radius:10px;margin-bottom:1rem;" />
 
 <div style="padding:0.35rem 0.7rem;
     background: #94dbff;
